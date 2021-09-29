@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 <img src='https://github.com/Josimar-Victoria/tinder-clone/blob/main/Captura%20de%20pantalla%20de%202021-09-29%2003-08-26.png?raw=true' alt='imhs'/>
 <img src='https://github.com/Josimar-Victoria/tinder-clone/blob/main/Captura%20de%20pantalla%20de%202021-09-29%2003-08-35.png?raw=true' alt='ksñ'/>
+<img src='https://github.com/Josimar-Victoria/tinder-clone/blob/main/Captura%20de%20pantalla%20de%202021-09-29%2003-08-40.png?raw=true' alt='slsm'/>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
